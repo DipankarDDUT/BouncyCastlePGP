@@ -87,18 +87,14 @@ public class PgpEncrypt {
 							.getBytes());
 			String sec = "-----BEGIN PGP PRIVATE KEY BLOCK-----\nVersion: Keybase OpenPGP v1.0.0\nComment: https://keybase.io/crypto\n\n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\n8hv8eHAhFQrPGNHVd0+t4ypYkfyLdLIpt6XZ\n=wVgO\n-----END PGP PRIVATE KEY BLOCK-----";
 			byte[] decrypted = decrypt(byteArr1, secKey, "passphrase".toCharArray());
-//String sec=new String(secKey);
+
 			System.out.println("---------------------------\ndecrypted data = '" + new String(decrypted) + "'");
 			InputStream result = new ByteArrayInputStream(sec.getBytes(StandardCharsets.UTF_8));
 			PGPSecretKey privatekey = readSecretKey(result);
 
 			PGPPrivateKey k = extractPrivateKey(privatekey, "passphrase".toCharArray());
 			System.out.println("PGPPrivate key extracted from PGPSecretkey,though not used \t " + k);
-//byte[] sign=createSignedObject(PublicKeyAlgorithmTags.ECDSA,k,byteArr);
-//String sss=new String(sign);
-//System.out.println(sss);
-//boolean t=verifySignedObject(publicKey,sign);
-//System.out.println(t);
+
 			String d = signMessageByteArray(str, privatekey, "passphrase".toCharArray());
 			System.out.println("SignedMessage\n" + d);
 
@@ -202,28 +198,21 @@ public class PgpEncrypt {
 		PGPEncryptedDataList enc = null;
 		Object o = pgpF.nextObject();
 
-//
-// the first object might be a PGP marker packet.
-//
+
+
 		if (o instanceof PGPEncryptedDataList) {
 			enc = (PGPEncryptedDataList) o;
 		} else {
 			enc = (PGPEncryptedDataList) pgpF.nextObject();
 		}
 
-// find the secret key
+
 
 		PGPPrivateKey sKey = null;
 
-//Iterator<PGPPublicKeyEncryptedData> it = enc.getEncryptedDataObjects();
 		PGPPublicKeyEncryptedData pbe = null;
 		PGPSecretKeyRingCollection pgpSec = new BcPGPSecretKeyRingCollection(PGPUtil.getDecoderStream(keyIn));
 
-// while (sKey == null && it.hasNext()) {
-//     pbe = it.next();
-//     sKey = findSecretKey(pgpSec, pbe.getKeyID(), password);
-
-// }
 
 		for (int i = 0; i < enc.size() && sKey == null; i++) {
 			Object encryptedData = enc.get(i);
@@ -233,14 +222,6 @@ public class PgpEncrypt {
 
 		}
 
-// ////
-// PGPSecretKey secretKey = readSecretKey(keyIn);
-// sKey = getPGPSecretKey(secretKey, password);
-// ///
-
-// if (pbe == null) {
-//     throw new IllegalArgumentException("PGPPublicKeyEncryptedData not found.");
-// }
 
 		if (sKey == null) {
 			throw new IllegalArgumentException("secret key for message not found.");
@@ -298,32 +279,11 @@ public class PgpEncrypt {
 		return privateKey;
 	}
 
-//static PGPSecretKey readSecretKey(InputStream keyIn) throws IOException, PGPException
-//{
-////    InputStream keyIn = new BufferedInputStream(new FileInputStream(fileName));
-//    PGPSecretKey secKey = readSecretKey(keyIn);
-//    keyIn.close();
-//    return secKey;
-//}
 
-	/**
-	 * A simple routine that opens a key ring file and loads the first available key
-	 * suitable for signature generation.
-	 * 
-	 * @param input stream to read the secret key ring collection from.
-	 * @return a secret key.
-	 * @throws IOException  on a problem with using the input stream.
-	 * @throws PGPException if there is an issue parsing the input stream.
-	 */
+
 	static PGPSecretKey readSecretKey(InputStream input) throws IOException, PGPException {
 		PGPSecretKeyRingCollection pgpSec = new PGPSecretKeyRingCollection(PGPUtil.getDecoderStream(input),
 				new JcaKeyFingerprintCalculator());
-
-		//
-		// we just loop through the collection till we find a key suitable for
-		// encryption, in the real
-		// world you would probably want to be a bit smarter about this.
-		//
 
 		Iterator keyRingIter = pgpSec.getKeyRings();
 		while (keyRingIter.hasNext()) {
@@ -342,69 +302,7 @@ public class PgpEncrypt {
 		throw new IllegalArgumentException("Can't find signing key in key ring.");
 	}
 
-//public static byte[] createSignedObject(int signingAlg, PGPPrivateKey signingKey, byte[] data)
-//        throws PGPException, IOException
-//    {
-//        ByteArrayOutputStream bOut = new ByteArrayOutputStream();
-//        PGPSignatureGenerator sGen = new PGPSignatureGenerator(
-//            new JcaPGPContentSignerBuilder(signingAlg, PGPUtil.SHA384).setProvider("BCFIPS"));
-//
-//        sGen.init(PGPSignature.BINARY_DOCUMENT, signingKey);
-//
-//        BCPGOutputStream bcOut = new BCPGOutputStream(bOut);
-//
-//        sGen.generateOnePassVersion(false).encode(bcOut);
-//
-//        PGPLiteralDataGenerator lGen = new PGPLiteralDataGenerator();
-//
-//        OutputStream lOut = lGen.open(
-//            bcOut,
-//            PGPLiteralData.BINARY,
-//            "_CONSOLE",
-//            data.length,
-//            new Date());
-//
-//        for (int i = 0; i != data.length; i++)
-//        {
-//            lOut.write(data[i]);
-//            sGen.update(data[i]);
-//        }
-//
-//        lGen.close();
-//
-//        sGen.generate().encode(bcOut);
-//
-//        return bOut.toByteArray();
-//    }
-//
-//
-//
 
-//public static boolean verifySignedObject(PGPPublicKey verifyingKey, byte[] pgpSignedData)
-//        throws PGPException, IOException
-//    {
-//        JcaPGPObjectFactory        pgpFact = new JcaPGPObjectFactory(pgpSignedData);
-//
-//        PGPOnePassSignatureList onePassList = (PGPOnePassSignatureList)pgpFact.nextObject();
-//        PGPOnePassSignature ops = onePassList.get(0);
-//
-//        PGPLiteralData literalData = (PGPLiteralData)pgpFact.nextObject();
-//
-//        InputStream dIn = literalData.getInputStream();
-//
-//        ops.init(new JcaPGPContentVerifierBuilderProvider().setProvider("BCFIPS"), verifyingKey);
-//
-//        int ch;
-//        while ((ch = dIn.read()) >= 0)
-//        {
-//            ops.update((byte)ch);
-//        }
-//
-//        PGPSignatureList sigList = (PGPSignatureList)pgpFact.nextObject();
-//        PGPSignature sig = sigList.get(0);
-////        System.out.println(ops.verify(sig));
-//        return ops.verify(sig);
-//    }
 
 	private static String signMessageByteArray(String message, PGPSecretKey pgpSec, char pass[])
 			throws IOException, NoSuchAlgorithmException, NoSuchProviderException, PGPException, SignatureException {
@@ -414,12 +312,10 @@ public class PgpEncrypt {
 		OutputStream out = encOut;
 		out = new ArmoredOutputStream(out);
 
-		// Unlock the private key using the password
+	
 		PGPPrivateKey pgpPrivKey = pgpSec
 				.extractPrivateKey(new JcePBESecretKeyDecryptorBuilder().setProvider("BC").build(pass));
 
-		// Signature generator, we can generate the public key from the private
-		// key! Nifty!
 		PGPSignatureGenerator sGen = new PGPSignatureGenerator(
 				new JcaPGPContentSignerBuilder(pgpSec.getPublicKey().getAlgorithm(), PGPUtil.SHA1).setProvider("BC"));
 
@@ -448,10 +344,7 @@ public class PgpEncrypt {
 		}
 
 		lOut.close();
-		/*
-		 * while ((ch = message.toCharArray().read()) >= 0) { lOut.write(ch);
-		 * sGen.update((byte) ch); }
-		 */
+	
 		lGen.close();
 
 		sGen.generate().encode(bOut);
