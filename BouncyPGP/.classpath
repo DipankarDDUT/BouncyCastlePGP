@@ -6,7 +6,6 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/ddut/Desktop/bc-fips-1.0.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/ddut/Downloads/Documents/bcprov-jdk15on-165.jar"/>
 	<classpathentry kind="lib" path="C:/Users/ddut/Downloads/Documents/bcpg-jdk15on-165.jar"/>
 	<classpathentry kind="output" path="bin"/>
